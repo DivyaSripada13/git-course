@@ -1,1 +1,2 @@
-get the userr data ... process  the data   
+get the user data ... process  the data
+created  the avatar    
